@@ -61,6 +61,11 @@ Covers platform-specific implementations, terminology mapping, conversion tips, 
 
 ---
 
+Created by ArchieCur in collaboration with Claude Code and Claude Sonnet 4.6  
+version 1.0.0 March 2026
+---
+
+
 ## Contributing
 
 Issues and pull requests are welcome. If you spot an error or want to suggest an addition, open an issue to start the conversation.
