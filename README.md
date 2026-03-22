@@ -1,6 +1,6 @@
 # Quick Reference Guides: Specs, Skills & Tools
 
-Printable one-page references for AI engineers who need a fast, structured reminder of what to include — and how to organize it — when building specifications, skills, and tools. These guides distill the key patterns without requiring a full read of the underlying documentation.
+Printable two-page references for AI engineers who need a fast, structured reminder of what to include — and how to organize it — when building specifications, skills, and tools. These guides distill the key patterns without requiring a full read of the underlying documentation.
 
 ---
 
