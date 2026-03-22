@@ -61,7 +61,7 @@ Covers platform-specific implementations, terminology mapping, conversion tips, 
 
 ---
 
-Created by ArchieCur in collaboration with Claude Code and Claude Sonnet 4.6  
+#### Created by ArchieCur in collaboration with Claude Code and Claude Sonnet 4.6  
 version 1.0.0 March 2026
 ---
 
